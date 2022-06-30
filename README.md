@@ -22,7 +22,7 @@ pod 'SwiftyExtensionKit'
 
 ## Author
 
-machao, machao@yiruikecorp.com
+obj_cc@qq.com
 
 ## License
 

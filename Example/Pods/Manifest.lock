@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SwiftyExtensionKit: a303b1ea9a6042dd2b9dd742c5f0a53b465abc54
+  SwiftyExtensionKit: 557dce6ee0e49891b18026c8a39084f2944e72ae
 
 PODFILE CHECKSUM: a0c25f54bce5511d750dfce5329a3f93ccce0656
 
