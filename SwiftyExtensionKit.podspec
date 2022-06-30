@@ -8,9 +8,9 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SwiftyExtensionKit'
-  s.version          = '0.1.0'
+  s.version          = '0.1.5'
   s.summary          = 'A short description of SwiftyExtensionKit.'
-
+  
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
 #   * Try to keep it short, snappy and to the point.
@@ -31,6 +31,8 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '10.0'
 
   s.source_files = 'SwiftyExtensionKit/Classes/**/*'
+  
+    s.swift_versions   = '4.0'
   
   # s.resource_bundles = {
   #   'SwiftyExtensionKit' => ['SwiftyExtensionKit/Assets/*.png']
