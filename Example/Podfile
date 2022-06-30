@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'SwiftyExtensionKit_Example' do
+  pod 'SwiftyExtensionKit', :path => '../'
+
+  target 'SwiftyExtensionKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
